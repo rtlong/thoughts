@@ -1,2 +1,3 @@
 # thoughts
-thoughts or ideas
+
+thoughts or ideas. see [issues](//github.com/rtlong/thoughts/issues).
